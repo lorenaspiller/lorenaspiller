@@ -20,7 +20,7 @@
 ```
 3. Shutting down
 ```bash
-   going-to-bed down
+   lorena going-to-bed down
 ```
 
 <!---
