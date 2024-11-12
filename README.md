@@ -2,7 +2,7 @@
 - 👩‍💻 I'm currently working as web developer
 - 🖍 I have a background in graphic design
 - 👀 I’m interested in full stack web development || software engineering? 👀  
-- 🌱 I’m currently learning react && gatsby && typescript
+- 🌱 I’m currently learning react && Next js && typescript && COS
 - 💞️ I’m looking to collaborate on sexy full stack projects
 - 👾 I sometimes enjoy Lego bricks || dark humor || brilliant people
 - 📫 How to reach me lorenaspiller@gmail.com
